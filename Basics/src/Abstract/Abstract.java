@@ -5,7 +5,7 @@ public class Abstract {
 	    abstract void fun(); 
 	} 
 	class Derived extends Base { 
-	    void fun() { System.out.println("Derived fun() called"); } 
+	    void fun() { System.out.println("Derived fun() call"); } 
 	} 
 	class classtoinherit { 
 	    public void main(String args[]) {  
